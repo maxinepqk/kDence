@@ -1,0 +1,28 @@
+TimeSheet
+
+
+15/11 – 1 hour: Planning and drafting storyboard 
+19/11 – 5 hours: Learning pyAudio and building initial framework with pyGame
+20/11 – 4 hours: building animation with pyGame
+
+TP 1 - decided to switch to tKinter
+
+21/11 – 4 hours: rewriting file in tKinter and finishing documentation
+24/11 - 2 hours: looking into how to include image files in tKinter
+25/11 - 1 hour: attempted to compartmentalize code into different files
+27/11 - 2 hours: researched and downloaded appropriate sound files 
+28/11 - 3 hours: set up keyboard mode, wrote the code to record and replay notes
+
+TP2 - decided to switch to make garageBand 
+
+29/11 - 6 hours: started from scratch, taking code from previously written files, organizing them, and writing the basic user interface with recording functions
+30/11 - 5 hours: continued writing user interface, wrote code to store recordings, looked into online examples for audio visualization
+1/12 - 6 hours: continued to set up the recording portion of the program and debugging
+2/12 - 8 hours: started writing my own audio visualization code, computer unable to install numpy to make audio spectographs
+3/12 - 5 hours: added a voice element in recording, experimented with threading for replaying
+4/12 - 5 hours: added a metronome and ability to adjust the different speeds and playback
+5/12 - 7 hours: looked into modules like json and pickle for the “save a file” feature, experimented with screenshots and cropping them to preview previous projects
+6/12 - 8 hours: fixed minor recording, visualization and playback errors, looked into scrollbars for tkinter canvas for scrolling when drawn off screen
+7/12 - 8 hours: added autoscroll function for playback mode, added helpScreen, worked on design docs and video
+8/12 - 3 hours: worked on design docs and video
+
